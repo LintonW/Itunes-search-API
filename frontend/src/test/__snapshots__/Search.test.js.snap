@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="search"
+>
+  <div
+    className="search-contents"
+  >
+    <h1>
+      Itunes Store
+    </h1>
+    <form
+      action=""
+    >
+      <input
+        type="text"
+      />
+      <div
+        className="options"
+      >
+        <select>
+          <option>
+            Select An Option :
+          </option>
+          <option
+            value="all"
+          >
+            All
+          </option>
+          <option
+            value="music"
+          >
+            Music
+          </option>
+          <option
+            value="musicVideo"
+          >
+            Music Video
+          </option>
+          <option
+            value="movie"
+          >
+            Movies
+          </option>
+          <option
+            value="shortFilm"
+          >
+            Short Film
+          </option>
+          <option
+            value="tvShow"
+          >
+            Tv Show
+          </option>
+          <option
+            value="podcast"
+          >
+            Podcast
+          </option>
+          <option
+            value="audiobook"
+          >
+            Audiobook
+          </option>
+          <option
+            value="ebook"
+          >
+            EBook
+          </option>
+          <option
+            value="software"
+          >
+            Software
+          </option>
+        </select>
+        <button>
+          Search
+        </button>
+        <button
+          onClick={[Function]}
+        >
+          Favourites
+        </button>
+      </div>
+    </form>
+  </div>
+  <div
+    className="landing-section"
+  >
+    <img
+      alt="searchimg"
+      src="search.svg"
+    />
+  </div>
+</div>
+`;
